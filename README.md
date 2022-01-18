@@ -114,8 +114,7 @@
    
    *Figura 15. Potencia teorica*
    
-   Una vez oobtenido la potencia maxima verificamos el dato en nuestro simulador de proteus el cual vamos a utilizar para comprobar la potencia maxima.
-   
+   Una vez obtenido la potencia maxima verificamos el dato en nuestro simulador de proteus el cual vamos a utilizar para comprobar la potencia maxima.
    
    ![](https://github.com/jlcastro5/Laboratorio6/blob/9faca4eba0a00f25c7add903272f92a35ac3dc67/Proteus.PNG)
    
