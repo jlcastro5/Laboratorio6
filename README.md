@@ -114,6 +114,13 @@
    
    *Figura 15. Potencia teorica*
    
+   Una vez oobtenido la potencia maxima verificamos el dato en nuestro simulador de proteus el cual vamos a utilizar para comprobar la potencia maxima.
+   
+   
+   ![](https://github.com/jlcastro5/Laboratorio6/blob/9faca4eba0a00f25c7add903272f92a35ac3dc67/Proteus.PNG)
+   
+   *Figura 16. Simulador Proteus*
+   
    TABLA DE DATOS
    
    En la siguiente tabla colocamos valores medidos por el multimetro tanto la corriente y su voltaje y respectivamente con el proceso adecuado encontramos su potencia
@@ -126,11 +133,11 @@
    CALCULO DE ERROR
    
    En el calculo de error de las potencia tanto con valores medidos con el multimetro y la potencia con valores calculados la cual su diferencia de error es mostrado
-   en la figura 16.
+   en la figura 17.
    
    ![](https://github.com/jlcastro5/Laboratorio6/blob/f57156e79eac5cbe2fdc8aea7f24c8ddef4f9643/CalculoError.PNG)
    
-   *Figura 16. Calculo de error potencia*
+   *Figura 17. Calculo de error potencia*
    
    **PREGUNTAS**
    
@@ -140,7 +147,7 @@
  
    *Cual es la potencia maxima en RL ?*
    
-   46.51 mW
+   46.5 mW
    
    *Para que valor de RL se obtiene la MTP? *
    
