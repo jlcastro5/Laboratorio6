@@ -133,21 +133,18 @@
    *Figura 16. Calculo de error potencia*
    
    **PREGUNTAS**
-   *Cumple el teorema de la maxima tranferencia de potencia?
    
+   *Cumple el teorema de la maxima tranferencia de potencia?*
    
-   
-   
-   Cual es la potencia maxima en RL ?
+   Si se cumple, porque a medida que se acerca a 1200 ohm aunmenta la potencia y al alejarse de la misma se reduce la potencia.
+ 
+   *Cual es la potencia maxima en RL ?*
    
    46.51 mW
    
-   Para que valor de RL se obtiene la MTP? 
+   *Para que valor de RL se obtiene la MTP? *
    
    1000Ω
-   
-   
-
 
 5. VIDEO
 
