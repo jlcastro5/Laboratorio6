@@ -3,11 +3,16 @@
 
    Objetivo general
    
+   * Analizar y comprobar de forma teorica y experimental veracidad que tiene el Teorema de Maxíma Transferencia de Potencia, como este se relaciona directamente con una resistencia Rl  y como se comporta al tener una resistencia interna similar a la resistencia de la fuente, esto se llevara a cabo mediante el desarrollo del presente laboratorio que abordará temas conocidos en la asignatura aplicado en un circuito eléctrico mixto planteado por el tutor de la asignatura, cabe recalcar que el presente circuito ya ha sido resuelto mediante un simulador virtual por lo que se espera resultados similares, se utilizara Tinkerkad y se establecera el porcentaje de error que tiene el metodo con respecto a los datos obtenidos mediante la simulacion.
  
 
    Objetivos específicos
    
-   * 
+   * Identificar el circuito electrico y elaborar un circuito simplificado.
+   * Comprender la relacion de la resistencia de carga y la resistencia Thevenin
+   * Conocer la resistencia equivalente o la resistencia Thevenin y como estas interactúa con la RL en dicho circuito.
+   * Comparar todas las resistencias y obtener datos para el calculo de la maxima transferenci de potencia
+   * Identificar la maxima transferencia de potencia y emitir en resultados el porcentaje de error.
    
 2. MARCO TEORICO
 
@@ -150,7 +155,7 @@
 
 6. CONCLUSIONES
 
-     *	
+     *	El teorema de Thevenin han permitido obtener buenos resultados, entre los datos obtenidos mediante el desarrollo teórico y la simulación, mismos que fueron recopilados desde tinkercad. Considerando que los elementos son ideales, podemos concluir que los datos obtenidos en este circuito eléctrico a partir del teorema de Thevenin son precisos, llegando a tener 99.9% de exactitud con respecto a la corriente y un 99.6% de exactitud en el voltaje, por lo que concluimos que el método es muy fiable para resolver este tipo de circuitos eléctricos.
 
 7. BIBLIOGRAFÍA 
 
